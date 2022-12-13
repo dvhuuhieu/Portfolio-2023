@@ -1,0 +1,9 @@
+.header-left_link:hover .header-left_link-p {
+    transform: translateX(64px);
+    transition: 0.7s;
+}
+
+.icon-hover:hover {
+    transform: scale(1.2);
+    transition: 0.5s;
+}
